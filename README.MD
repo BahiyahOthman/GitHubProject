@@ -1,2 +1,2 @@
- **This is my first repo**
+# Repository Pertama Beya
 
